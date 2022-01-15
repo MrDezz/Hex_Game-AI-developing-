@@ -4,9 +4,9 @@ This is a Graph class implementation.
 
 Version 2.0
 
-Date of Last modified: 25/11/2021
+Date of Last modified: 15/01/2022
 
-Last modified by: Kirill Arestov
+Last modified by:
 
 
 */
